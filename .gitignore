@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/PhotoAlbum/.vs/PhotoAlbum
+/PhotoAlbum/PhotoAlbum/bin/Debug/netcoreapp2.1
+/PhotoAlbum/PhotoAlbumWebAPITests/bin/Debug/netcoreapp2.1
+/PhotoAlbum/PhotoAlbumWebAPITests/obj
+/PhotoAlbum/PhotoAlbum/obj
